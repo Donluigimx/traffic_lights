@@ -1,0 +1,17 @@
+{
+  "name": "traffic_light",
+  "version": "1.0.0",
+  "description": "School project",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Luis, Irais, Andres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
